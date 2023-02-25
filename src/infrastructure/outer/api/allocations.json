@@ -312,7 +312,8 @@
         "enrollment_year": 2014,
         "created_at": "2014-03-03T14:45:21.503Z",
         "updated_at": "2014-03-03T14:45:21.503Z",
-        "deleted_at": null
+        "deleted_at": null,
+        "permission": true
       },
       {
         "id": 16764,
@@ -637,7 +638,8 @@
         "enrollment_year": 2020,
         "created_at": "2020-03-03T14:45:21.504Z",
         "updated_at": "2020-03-03T14:45:21.504Z",
-        "deleted_at": null
+        "deleted_at": null,
+        "permission": true
       },
       {
         "id": 51353,
@@ -926,7 +928,8 @@
         "enrollment_year": 2019,
         "created_at": "2019-03-03T14:45:21.505Z",
         "updated_at": "2019-03-03T14:45:21.505Z",
-        "deleted_at": null
+        "deleted_at": null,
+        "permission": false
       },
       {
         "id": 34648,
@@ -1737,7 +1740,8 @@
         "enrollment_year": 2014,
         "created_at": "2014-03-03T14:45:21.507Z",
         "updated_at": "2014-03-03T14:45:21.507Z",
-        "deleted_at": null
+        "deleted_at": null,
+        "permission": true
       },
       {
         "id": 16303,
@@ -2602,7 +2606,8 @@
         "enrollment_year": 2021,
         "created_at": "2021-03-03T14:45:21.511Z",
         "updated_at": "2021-03-03T14:45:21.511Z",
-        "deleted_at": null
+        "deleted_at": null,
+        "permission": false
       },
       {
         "id": 6264,
@@ -3467,7 +3472,8 @@
         "enrollment_year": 2015,
         "created_at": "2015-03-03T14:45:21.515Z",
         "updated_at": "2015-03-03T14:45:21.515Z",
-        "deleted_at": null
+        "deleted_at": null,
+        "permission": false
       },
       {
         "id": 60403,
@@ -3738,7 +3744,8 @@
         "enrollment_year": 2017,
         "created_at": "2017-03-03T14:45:21.515Z",
         "updated_at": "2017-03-03T14:45:21.515Z",
-        "deleted_at": null
+        "deleted_at": null,
+        "permission": false
       },
       {
         "id": 32096,
@@ -4369,7 +4376,8 @@
         "enrollment_year": 2019,
         "created_at": "2019-03-03T14:45:21.519Z",
         "updated_at": "2019-03-03T14:45:21.519Z",
-        "deleted_at": null
+        "deleted_at": null,
+        "permission": false
       },
       {
         "id": 19743,
@@ -4640,7 +4648,8 @@
         "enrollment_year": 2014,
         "created_at": "2014-03-03T14:45:21.519Z",
         "updated_at": "2014-03-03T14:45:21.519Z",
-        "deleted_at": null
+        "deleted_at": null,
+        "permission": false
       },
       {
         "id": 77988,
@@ -4929,7 +4938,8 @@
         "enrollment_year": 2013,
         "created_at": "2013-03-03T14:45:21.520Z",
         "updated_at": "2013-03-03T14:45:21.520Z",
-        "deleted_at": null
+        "deleted_at": null,
+        "permission": false
       }
     ]
   }
